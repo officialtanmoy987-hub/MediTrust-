@@ -1,0 +1,6 @@
+{
+  "name": "MediTrust+",
+  "description": "Comprehensive AI health symptom analyzer, specialist directory, and online pharmacy store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
